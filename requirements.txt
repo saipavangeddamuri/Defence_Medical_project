@@ -1,0 +1,7 @@
+streamlit>=1.30.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.18.0
+ortools>=9.8.0
+qiskit>=1.0.0
+qiskit-aer>=0.14.0

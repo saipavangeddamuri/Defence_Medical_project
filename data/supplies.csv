@@ -1,0 +1,3 @@
+hospital_id,supply_name,available_units
+HOSP_NORTH,Emergency Trauma Kits,15
+HOSP_SOUTH,Emergency Trauma Kits,10

@@ -1,0 +1,3 @@
+hospital_id,hospital_name,available_beds
+HOSP_NORTH,Hospital North,10
+HOSP_SOUTH,Hospital South,8

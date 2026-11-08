@@ -1,0 +1,4 @@
+ambulance_id,status,current_area
+AMB_1,available,AREA_A
+AMB_2,available,AREA_B
+AMB_3,available,AREA_C
